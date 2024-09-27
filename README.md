@@ -34,7 +34,7 @@ Though I've mastered part of the skills, I'm still learning more about the minds
 * Digital marketing theories and practices (this repo will also serve as a practice)
 * and more..
 
-Currently, I'm taking the C[oursera course for digital marketing](https://www.coursera.org/learn/foundations-of-digital-marketing-and-e-commerce/supplement/gFB3O/what-is-a-touchpoint), and I will share my notes and thoughts to this repo.
+Currently, I'm taking the [Coursera course for digital marketing](https://www.coursera.org/learn/foundations-of-digital-marketing-and-e-commerce/supplement/gFB3O/what-is-a-touchpoint), and I will share my notes and thoughts to this repo.
 
 ## What you can expect 
 
