@@ -1,22 +1,22 @@
 # Sam's skill picking and sharing record
 
-Welcome to my [digital marketing](https://en.wikipedia.org/wiki/Digital_marketing) learning and sharing base!
+🙌 Welcome to my [digital marketing](https://en.wikipedia.org/wiki/Digital_marketing) learning and sharing base!
 
 Here, I document the skills I've mastered and am picking up, the projects I’m workign on, and the insights I’m gaining along the way. Whether you're a fellow learner, a seasoned marketer, or just curious about digital marketing skills and strategies, feel free to join me or talk to me!
 
-Star this project if you are interested!
+⭐ Star this project if you are interested!⭐
 
 ## Who is Sam 
 
 Hi everyone! I am currently a freelancer in GTM strategies for SaaS, Database, AGI tools, and other products. Previously, I have been working as the GTM Product Manager/ Product Marketing Manager in a mainframe company for years.
 
 I specialize in 
-* **Content creation** (technical documentation, blog, tutorial, etc.) - I developed series of videos for [Zowe](https://www.zowe.org/) and several technical blogs to hit the users pain points.
-* **Content distribution and promotion** (LinkedIn, Medium, Twitter, etc.)
-* **SEO**
-* **GTM strategy** (0-1 product Go-to-market planning and execution)
-* **Competitor analysis** (for product enhancement, user or sales experience improvement, etc.)
-* **Open source community operations** (worked on Zowe as the doc squad co-lead)
+🖋️ **Content creation** (technical documentation, blog, tutorial, etc.) - I developed series of videos for [Zowe](https://www.zowe.org/) and several technical blogs to hit the users pain points.
+📺 **Content distribution and promotion** (LinkedIn, Medium, Twitter, etc.)
+💻 **SEO**
+📈 **GTM strategy** (0-1 product Go-to-market planning and execution)
+🆚 **Competitor analysis** (for product enhancement, user or sales experience improvement, etc.)
+🧑‍🤝‍🧑 **Open source community operations** (worked on Zowe as the doc squad co-lead)
 
 ## What Sam is learning
 
