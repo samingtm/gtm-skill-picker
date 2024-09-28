@@ -10,7 +10,7 @@ Here, I document the skills I've mastered and am picking up, the projects I’m 
 
 Hi everyone! I am currently a freelancer in GTM strategies for SaaS, Database, AGI tools, and other products. Previously, I have been working as the GTM Product Manager/ Product Marketing Manager in a mainframe company for years.
 
-I specialize in 
+### I specialize in 
 
 🖋️ **Content creation** (technical documentation, blog, tutorial, etc.) - I developed series of videos for [Zowe](https://www.zowe.org/) and several technical blogs to hit the users pain points.
 
