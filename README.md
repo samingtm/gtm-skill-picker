@@ -38,9 +38,9 @@ Currently, I'm taking the [Coursera course for digital marketing](https://www.co
 
 ## What you can expect 
 
-Here is the place that we can discuss the best practices in terms of content, marketing, and more!
+Here is the place that we can **discuss and share the best practices** in terms of content, marketing, and more!
 
-And if you need any service or support for your open source project, don't hesitate to contact me!
+And if you need any **service or support for your open source project**, don't hesitate to contact me!
 
 Or if you are new to digital marketing, **star this project** and learn with me!
 
