@@ -14,7 +14,7 @@ Hi everyone! I am currently a freelancer in GTM strategies for AI tools, Databas
 
 🖋️ **Content creation** (technical documentation, blog, tutorial, etc.) - I developed series of videos for [Zowe](https://www.zowe.org/) and several technical blogs to hit the users pain points.
 
-📺 **Content distribution and promotion** (LinkedIn, [Medium](https://medium.com/@wen.ting.su) , Twitter, etc.
+📺 **Content distribution and promotion** (LinkedIn, [Medium](https://medium.com/@wen.ting.su) , Twitter, etc.)
 
 💻 **SEO**
 
